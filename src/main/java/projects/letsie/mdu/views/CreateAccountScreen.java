@@ -1,4 +1,4 @@
 package projects.letsie.mdu.views;
 
-public class RegisterScreen {
+public class CreateAccountScreen {
 }
