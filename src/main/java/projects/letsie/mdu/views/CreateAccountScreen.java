@@ -1,5 +1,4 @@
 package projects.letsie.mdu.views;
 
-public class HomeScreen {
-
+public class CreateAccountScreen {
 }
